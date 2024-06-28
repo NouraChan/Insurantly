@@ -47,7 +47,6 @@
 #s-1-2 {
     margin-top: 40px;
     font-size: 20px;
-    font-weight: 500;
     line-height: 30px;
     letter-spacing: 0.2px;
 }
@@ -161,7 +160,6 @@
 
 .userjob {
     font-size: 14px;
-    font-weight: 600;
     line-height: 24px;
     letter-spacing: 0.20000000298023224px;
     text-align: left;
@@ -177,7 +175,6 @@
 
 .content {
     font-size: 14px;
-    font-weight: 500;
     line-height: 20px;
     letter-spacing: 0.20000000298023224px;
     text-align: left;
@@ -247,7 +244,6 @@
 .tax h6 {
     color: #FFFFFF;
     font-size: 14px;
-    font-weight: 600;
     line-height: 24px;
     letter-spacing: 0.20000000298023224px;
     text-align: left;
@@ -259,7 +255,6 @@
     color: #FFFFFF;
     box-shadow: 0px 13px 19px 0px #0000003D;
     font-size: 20px;
-    font-weight: 500;
     line-height: 30px;
     letter-spacing: 0.20000000298023224px;
     text-align: left;
@@ -386,7 +381,6 @@
     background-color: rgb(220, 69, 14);
     border-radius: 50%;
     width: 60px;
-    /* height: 100px; */
     font-size: 20px;
     font-weight: bold;
     justify-content: center;
@@ -417,7 +411,6 @@
 #s-2-1 {
     color: #252B42;
     font-size: 16px;
-    font-weight: 700;
     line-height: 24px;
     letter-spacing: 0.10000000149011612px;
     text-align: left;
@@ -427,7 +420,6 @@
 #s-2-2 {
     color: #252B42;
     font-size: 40px;
-    font-weight: 700;
     line-height: 57px;
     letter-spacing: 0.20000000298023224px;
 }
@@ -465,7 +457,6 @@ textarea {
     padding: 15px 40px 15px 40px;
     border-radius: 5px;
     font-size: 14px;
-    font-weight: 700;
     line-height: 22px;
     letter-spacing: 0.20000000298023224px;
     text-align: center;
@@ -484,7 +475,6 @@ textarea {
 
 .note h3 {
     font-size: 24px;
-    font-weight: 700;
     line-height: 32px;
     letter-spacing: 0.10000000149011612px;
     text-align: left;
@@ -494,7 +484,6 @@ textarea {
 .note p {
 
     font-size: 14px;
-    font-weight: 500;
     line-height: 20px;
     letter-spacing: 0.20000000298023224px;
     text-align: left;
@@ -515,7 +504,6 @@ textarea {
 
     color: #737373;
     font-size: 14px;
-    font-weight: 600;
     line-height: 24px;
     letter-spacing: 0.20000000298023224px;
     text-align: left;
@@ -538,7 +526,6 @@ textarea {
     color: white;
     text-decoration: none;
     font-size: 14px;
-    font-weight: 400;
     line-height: 24px;
     letter-spacing: 0.20000000298023224px;
     text-align: left;
@@ -557,7 +544,6 @@ textarea {
 .contacts h6 {
 
     font-size: 14px;
-    font-weight: 400;
     line-height: 24px;
     letter-spacing: 0.20000000298023224px;
     text-align: left;
