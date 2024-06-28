@@ -444,6 +444,17 @@ textarea {
     width: 52.5% !important;
 }
 
+@media only screen and (max-width: 800px) {
+
+    .forminput,
+    .formselect {
+        width: 40% !important;
+    }
+    textarea{
+        width: 90% !important;
+    }
+}
+
 .button {
     display: inline-block;
     text-align: left;
